@@ -1,0 +1,7 @@
+1 (Linear Regression): 2.00786
+2 (Linear Regression With Feature Selection - ANOVA: 0.1): 1.57667
+3 (Polynomial Regression [Interaction] with Feature Selection): 0.49101
+4 (Decision Tree): 0.18119
+5 (Random Forest): 0.14904
+6 (Random Forest - Feature Selection): 0.14596
+7 (XGBoost) - 14067
